@@ -46,10 +46,10 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Tarun</span>
-          <span className="text-[#8245ec]">/</span>
+          <span className="text-white">Sarath</span>
+          {/* <span className="text-[#8245ec]">/</span>
           <span className="text-white">Kaushik</span>
-          <span className="text-[#8245ec]">&gt;</span>
+          <span className="text-[#8245ec]">&gt;</span> */}
         </div>
 
         {/* Desktop Menu */}
@@ -71,7 +71,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://github.com/codingmastr"
+            href="https://github.com/Sarathchandra4"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
@@ -79,7 +79,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/tarun-kaushik-553b441a4"
+            href="https://www.linkedin.com/in/sarath-chandra-8a4b65364/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
